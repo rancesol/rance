@@ -18,13 +18,13 @@ author: Rance Solomon
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://rancesol.github.io"
-  #About Me: "aboutme"
+  #Home: "https://rancesol.github.io"
+  About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Research: "research"
+  #Research: "research"
 
 # --- Logo --- #
 
