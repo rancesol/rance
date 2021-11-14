@@ -5,8 +5,12 @@
 
 # --- Required options --- #
 
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+url: "https://rancesol.github.io"
+baseurl: ""
+
 # Name of website
-title: Rance
+title: Rance Solomon
 
 # Your name to show in the footer
 author: Rance Solomon
@@ -14,11 +18,13 @@ author: Rance Solomon
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "https://rancesol.github.io"
+  #About Me: "aboutme"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
+  Research: "research"
 
 # --- Logo --- #
 
