@@ -19,13 +19,9 @@ author: Rance Solomon
 
 navbar-links:
   Home: "https://rancesol.github.io"
-  About Me: "aboutme"
-  #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
   Research: "research"
   Teaching: "teaching"
+  About Me: "aboutme"
   CV: "cv"
 
 # --- Logo --- #
