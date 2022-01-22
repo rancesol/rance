@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Research
-subtitle: What I Study
 ---
 
-My interests are in:
+Git Repository: <a href="https://github.com/rancesol">https://github.com/rancesol</a>
+ORCiD: <a href="https://orcid.org/0000-0003-0693-2469">0000-0003-0693-2469</a>
 
-- cosmology
-- field theory
-- particle physics
-- general relativity
-- gravitational waves
+***Standard Candle Quasars
+
+
+
+
 
