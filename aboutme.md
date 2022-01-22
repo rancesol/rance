@@ -1,10 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: In case you need to know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rance Matthew Solomon. If I were to describe myself in a nutshell: cramped.
+
+I am currently a PhD candidate in physics with specialty in theoretical cosmology, gravity, and high energy physics. I have background in 
+I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
