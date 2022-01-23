@@ -7,7 +7,7 @@ Git Repository: <a href="https://github.com/rancesol">https://github.com/ranceso
 
 ORCiD: <a href="https://orcid.org/0000-0003-0693-2469">0000-0003-0693-2469</a>
 
-***Standard Candle Quasars***
+<a href="https://rancesol.github.io/standard_candle_QSOs/">***Standard Candle Quasars***</a>
 
 <a href="https://en.wikipedia.org/wiki/Quasar">Quasars</a> are among the most distant observable objects known in the universe -- the furthest observed have exceeded redshifts of z = 2.
 Combined with their long lifetimes, quasars have the potential to be exceptional contributions to the cosmic distance ladder.
