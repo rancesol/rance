@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Standard Candle Quasars
-subtitle: <a href="https://arxiv.org/abs/2110.03671">arXiv:2110.03671</a>
+subtitle: arXiv:2110.03671
 ---
 
-<a href="https://en.wikipedia.org/wiki/Quasar">Quasars</a> are among the most distant observable objects known in the universe -- the furthest observed have exceeded redshifts of z = 2.
+<a href="https://en.wikipedia.org/wiki/Quasar">Quasars</a> are among the most distant observable objects known in the universe -- the furthest observed have exceeded redshifts of z = 7.
 Combined with their long lifetimes, quasars have the potential to be exceptional contributions to the cosmic distance ladder.
 Currently the distance ladder reaches only as far as type Ia supernovae can be observed (z ~ 1), but with the addition of quasars we could easily extend the distance ladder well beyond z = 2 and in principle past z = 7.
 At these redshifts we would be able to make next generation constraints on the cosmological parameters constraining the Hubble expansion and probe deeper into the ever prevalent Hubble tension.
