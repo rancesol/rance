@@ -9,6 +9,6 @@ Rance obtained his Bachelor of Arts from Middle Tennessee State University in 20
 This all of course follows his birth in Manchester, Tennessee, USA.
 
 His research focuses on the study of the Universe's accelerated expansion through observational cosmology.
-Most notable in his work is the use of quasars as standard candles (independent) and weak lensing mass estimations for cluster abundances (with LAPP and the LSST collaboration).
+Most notable in his work is the use of quasars as standard candles (independent) and weak lensing mass estimations for cluster abundances (with <a href="https://lapp.in2p3.fr/">LAPP</a> and the <a href="https://www.lsst.org/">LSST</a> collaboration).
 
 As Rance approaches his midlife crisis or a job change he will further update this page.
