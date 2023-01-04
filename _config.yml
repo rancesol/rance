@@ -21,7 +21,7 @@ navbar-links:
   Home: "https://rancesol.github.io"
   Research: "research"
   Teaching: "teaching"
-  About Me: "aboutme"
+    #About Me: "aboutme"
   CV: "cv"
 
 # --- Logo --- #
