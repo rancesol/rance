@@ -12,8 +12,9 @@ html {
 
 body {
   /*font-family: 'Lora', 'Times New Roman', serif;*/
-  font-family: 'Courier New', serif;
-  font-size: 1.125rem;
+  /*font-family: 'Courier New', serif;*/
+  font-family: 'Gill Sans', serif;
+  font-size: 1.13rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
